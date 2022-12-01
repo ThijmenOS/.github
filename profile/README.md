@@ -11,5 +11,5 @@ The thijmen-os project makes use of multiple modules to simplify the development
 
 ## Package structure
 
-![Modules](https://github.com/thijmen-os/.github/blob/main/profile/modules.png?raw=true)
+![Modules](https://github.com/ThijmenOS/.github/blob/production/profile/modules.png?raw=true)
 This is the module structure of the thijmen-os operating system. In this image every rectangled component and everything that is outside of such component is a module.
