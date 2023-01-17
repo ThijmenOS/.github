@@ -10,6 +10,8 @@ Het project begon met het idee om een operating systeem idee portfolio website t
 
 ## Component structuur
 
+![1673960872657](image/README/1673960872657.png)
+
 ThijmenOS bevat verschillende packages die een stuk functionaliteit leveren aan andere componenten. Deze packages zijn bijvoorbeeld de graphics provider welke graphische functionaliteiten levert aan bijvoorbeeld de prompt provider en de client.
 
 De packages binnen het project zijn als volgt:
