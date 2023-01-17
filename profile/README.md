@@ -6,7 +6,7 @@ ThijemOS is een virtieel maar volledig functionerend oparating systeem in de bro
 
 Het project begon met het idee om een operating systeem idee portfolio website te make waar iedere sectie van de portfolio een apparte applicatie was. Vervolgens wilde ik een aantal easter egg applicaties maken wat uit de hand liep. Dit begon met snake, toen werd het een VS-Code clone applicatie waar ik javascript code mee wilde kunnen runnen. maar daar kwam een veiligheids risico bij kijken, mensen moest natuurlijk geen malisious code uitvoeren. Dus ik ging kijken naar hoe ik veilig deze code kon uitvoeren en kwam op een iframe. Maar als mensen toch al javascript in een iframe kunne runnen, waarom dan ze niet ook hele applicaties laten maken. En zo is het idee uitgegroeid tot een volledig operating system.
 
-![1673954526435](image/README/1673954526435.png)![1673954629678](image/README/1673954629678.png)
+![1673954629678](https://github.com/ThijmenOS/.github/blob/production/Schermafbeelding%202023-01-17%20122340.png?raw=true)
 
 ## Component structuur
 
