@@ -10,10 +10,6 @@ Het project begon met het idee om een operating systeem idee portfolio website t
 
 ## Component structuur
 
-<<<<<<< Updated upstream
-![Modules](https://github.com/ThijmenOS/.github/blob/production/profile/modules.png?raw=true)
-This is the module structure of the thijmen-os operating system. In this image every rectangled component and everything that is outside of such component is a module.
-=======
 ThijmenOS bevat verschillende packages die een stuk functionaliteit leveren aan andere componenten. Deze packages zijn bijvoorbeeld de graphics provider welke graphische functionaliteiten levert aan bijvoorbeeld de prompt provider en de client.
 
 De packages binnen het project zijn als volgt:
@@ -92,4 +88,3 @@ Het project is not niet klaar voor een productie of development distributie
 ## Auteur
 
 - [@ThijmenBrand](https://github.com/ThijmenBrand)
->>>>>>> Stashed changes
