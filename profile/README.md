@@ -1,3 +1,8 @@
+# Unmaintained! ⚠️
+⚠️⚠️⚠️
+This organization is not actively maintained. I would however love to get back to this project in the future, when I have more time at my hands
+⚠️⚠️⚠️
+
 # ThijmenOS
 
 > **NOTE: ThijmenOS is een project in ontwikkeling en deze documentatie kan ieder moment veranderen**
